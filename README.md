@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Krishna19-dev/Leetcode/tree/master/0042-trapping-rain-water) |
+| [1768-merge-strings-alternately](https://github.com/Krishna19-dev/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Krishna19-dev/Leetcode/tree/master/0205-isomorphic-strings) |
+| [1768-merge-strings-alternately](https://github.com/Krishna19-dev/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
