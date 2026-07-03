@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Krishna19-dev/Leetcode/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/Krishna19-dev/Leetcode/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/Krishna19-dev/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Krishna19-dev/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0412-fizz-buzz](https://github.com/Krishna19-dev/Leetcode/tree/master/0412-fizz-buzz) |
 | [1768-merge-strings-alternately](https://github.com/Krishna19-dev/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -49,4 +51,8 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Krishna19-dev/Leetcode/tree/master/1512-number-of-good-pairs) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Krishna19-dev/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
