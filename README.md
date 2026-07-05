@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Krishna19-dev/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Krishna19-dev/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krishna19-dev/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Krishna19-dev/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Krishna19-dev/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -12,6 +13,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Krishna19-dev/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krishna19-dev/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Krishna19-dev/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1768-merge-strings-alternately](https://github.com/Krishna19-dev/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Krishna19-dev/Leetcode/tree/master/0412-fizz-buzz) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Krishna19-dev/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
