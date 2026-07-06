@@ -40,16 +40,19 @@
 | ------- |
 | [0001-two-sum](https://github.com/Krishna19-dev/Leetcode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/Krishna19-dev/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Krishna19-dev/Leetcode/tree/master/0242-valid-anagram) |
 | [1512-number-of-good-pairs](https://github.com/Krishna19-dev/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Krishna19-dev/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Krishna19-dev/Leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Krishna19-dev/Leetcode/tree/master/0412-fizz-buzz) |
 | [1768-merge-strings-alternately](https://github.com/Krishna19-dev/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Krishna19-dev/Leetcode/tree/master/0242-valid-anagram) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Krishna19-dev/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Counting
 |  |
