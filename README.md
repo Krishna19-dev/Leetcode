@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Krishna19-dev/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krishna19-dev/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Krishna19-dev/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/Krishna19-dev/Leetcode/tree/master/0054-spiral-matrix) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Krishna19-dev/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1512-number-of-good-pairs](https://github.com/Krishna19-dev/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
@@ -61,9 +62,14 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Krishna19-dev/Leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Krishna19-dev/Leetcode/tree/master/0412-fizz-buzz) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Krishna19-dev/Leetcode/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Krishna19-dev/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
