@@ -85,4 +85,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Krishna19-dev/Leetcode/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Krishna19-dev/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
