@@ -15,6 +15,7 @@
 | [0169-majority-element](https://github.com/Krishna19-dev/Leetcode/tree/master/0169-majority-element) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Krishna19-dev/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1512-number-of-good-pairs](https://github.com/Krishna19-dev/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1920-build-array-from-permutation](https://github.com/Krishna19-dev/Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Krishna19-dev/Leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Krishna19-dev/Leetcode/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/Krishna19-dev/Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Greedy
 |  |
 | ------- |
