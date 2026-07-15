@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/Krishna19-dev/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krishna19-dev/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Krishna19-dev/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Krishna19-dev/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Krishna19-dev/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Krishna19-dev/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Krishna19-dev/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Krishna19-dev/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Krishna19-dev/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Krishna19-dev/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Krishna19-dev/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Krishna19-dev/Leetcode/tree/master/0242-valid-anagram) |
@@ -58,6 +60,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Krishna19-dev/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Krishna19-dev/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Krishna19-dev/Leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Krishna19-dev/Leetcode/tree/master/0412-fizz-buzz) |
@@ -65,6 +68,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Krishna19-dev/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Krishna19-dev/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Krishna19-dev/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Krishna19-dev/Leetcode/tree/master/0169-majority-element) |
