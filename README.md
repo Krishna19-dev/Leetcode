@@ -15,6 +15,7 @@
 | [0088-merge-sorted-array](https://github.com/Krishna19-dev/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krishna19-dev/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Krishna19-dev/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Krishna19-dev/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Krishna19-dev/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Krishna19-dev/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Krishna19-dev/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -56,6 +57,7 @@
 | [0049-group-anagrams](https://github.com/Krishna19-dev/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Krishna19-dev/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Krishna19-dev/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Krishna19-dev/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Krishna19-dev/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Krishna19-dev/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Krishna19-dev/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -75,6 +77,7 @@
 | [0075-sort-colors](https://github.com/Krishna19-dev/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Krishna19-dev/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Krishna19-dev/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Krishna19-dev/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Krishna19-dev/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Krishna19-dev/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Krishna19-dev/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
