@@ -21,6 +21,7 @@
 | [0238-product-of-array-except-self](https://github.com/Krishna19-dev/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Krishna19-dev/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Krishna19-dev/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/Krishna19-dev/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Krishna19-dev/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Krishna19-dev/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishna19-dev/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -95,6 +96,7 @@
 | [0242-valid-anagram](https://github.com/Krishna19-dev/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Krishna19-dev/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Krishna19-dev/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/Krishna19-dev/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Krishna19-dev/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Krishna19-dev/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishna19-dev/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
