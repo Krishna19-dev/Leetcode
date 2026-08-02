@@ -15,6 +15,7 @@
 | [0075-sort-colors](https://github.com/Krishna19-dev/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Krishna19-dev/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krishna19-dev/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Krishna19-dev/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Krishna19-dev/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Krishna19-dev/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Krishna19-dev/Leetcode/tree/master/0229-majority-element-ii) |
@@ -140,6 +141,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Krishna19-dev/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Krishna19-dev/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Krishna19-dev/Leetcode/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |
