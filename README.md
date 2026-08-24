@@ -13,6 +13,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Krishna19-dev/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Krishna19-dev/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Krishna19-dev/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Krishna19-dev/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Krishna19-dev/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Krishna19-dev/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Krishna19-dev/Leetcode/tree/master/0075-sort-colors) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Krishna19-dev/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Krishna19-dev/Leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Krishna19-dev/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Krishna19-dev/Leetcode/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/Krishna19-dev/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -129,6 +131,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Krishna19-dev/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Krishna19-dev/Leetcode/tree/master/0054-spiral-matrix) |
 ## Divide and Conquer
 |  |
