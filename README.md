@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Krishna19-dev/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Krishna19-dev/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Krishna19-dev/Leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Krishna19-dev/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Krishna19-dev/Leetcode/tree/master/0412-fizz-buzz) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Krishna19-dev/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Krishna19-dev/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Krishna19-dev/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Krishna19-dev/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Krishna19-dev/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -87,6 +89,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Krishna19-dev/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Krishna19-dev/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Krishna19-dev/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krishna19-dev/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
