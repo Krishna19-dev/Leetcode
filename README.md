@@ -17,6 +17,7 @@
 | [0049-group-anagrams](https://github.com/Krishna19-dev/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Krishna19-dev/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Krishna19-dev/Leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Krishna19-dev/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Krishna19-dev/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krishna19-dev/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Krishna19-dev/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -100,6 +101,7 @@
 | [0020-valid-parentheses](https://github.com/Krishna19-dev/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krishna19-dev/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Krishna19-dev/Leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Krishna19-dev/Leetcode/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/Krishna19-dev/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Krishna19-dev/Leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Krishna19-dev/Leetcode/tree/master/0412-fizz-buzz) |
@@ -144,6 +146,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Krishna19-dev/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Krishna19-dev/Leetcode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/Krishna19-dev/Leetcode/tree/master/0079-word-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -195,4 +198,12 @@
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Krishna19-dev/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Krishna19-dev/Leetcode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Krishna19-dev/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
