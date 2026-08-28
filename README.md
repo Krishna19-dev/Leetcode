@@ -51,6 +51,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Krishna19-dev/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishna19-dev/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Krishna19-dev/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Krishna19-dev/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [0389-find-the-difference](https://github.com/Krishna19-dev/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Krishna19-dev/Leetcode/tree/master/0412-fizz-buzz) |
 | [1768-merge-strings-alternately](https://github.com/Krishna19-dev/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Krishna19-dev/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -210,4 +212,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Krishna19-dev/Leetcode/tree/master/0079-word-search) |
+## Enumeration
+|  |
+| ------- |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Krishna19-dev/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
