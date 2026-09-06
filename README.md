@@ -37,6 +37,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Krishna19-dev/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1512-number-of-good-pairs](https://github.com/Krishna19-dev/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Krishna19-dev/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Krishna19-dev/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,6 +143,7 @@
 | [0054-spiral-matrix](https://github.com/Krishna19-dev/Leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Krishna19-dev/Leetcode/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Krishna19-dev/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Krishna19-dev/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
 | ------- |
