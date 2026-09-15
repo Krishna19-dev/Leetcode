@@ -29,6 +29,7 @@
 | [0217-contains-duplicate](https://github.com/Krishna19-dev/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Krishna19-dev/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Krishna19-dev/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Krishna19-dev/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Krishna19-dev/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Krishna19-dev/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Krishna19-dev/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -201,6 +202,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Krishna19-dev/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Krishna19-dev/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -227,6 +229,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Krishna19-dev/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Krishna19-dev/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 ## Backtracking
 |  |
@@ -248,4 +251,16 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Krishna19-dev/Leetcode/tree/master/0881-boats-to-save-people) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Krishna19-dev/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Krishna19-dev/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Krishna19-dev/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
