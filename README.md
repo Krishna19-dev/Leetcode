@@ -99,6 +99,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krishna19-dev/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Krishna19-dev/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Krishna19-dev/Leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Krishna19-dev/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Krishna19-dev/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Krishna19-dev/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Krishna19-dev/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -126,6 +127,7 @@
 | [0020-valid-parentheses](https://github.com/Krishna19-dev/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krishna19-dev/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Krishna19-dev/Leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Krishna19-dev/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Krishna19-dev/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Krishna19-dev/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Krishna19-dev/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -241,6 +243,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krishna19-dev/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Krishna19-dev/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Krishna19-dev/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Krishna19-dev/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Krishna19-dev/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
