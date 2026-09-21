@@ -18,6 +18,7 @@
 | [0048-rotate-image](https://github.com/Krishna19-dev/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Krishna19-dev/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Krishna19-dev/Leetcode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Krishna19-dev/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Krishna19-dev/Leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Krishna19-dev/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Krishna19-dev/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -187,6 +188,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Krishna19-dev/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Krishna19-dev/Leetcode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Krishna19-dev/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Krishna19-dev/Leetcode/tree/master/0079-word-search) |
 ## Divide and Conquer
 |  |
@@ -206,6 +208,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Krishna19-dev/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Krishna19-dev/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Krishna19-dev/Leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Krishna19-dev/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Krishna19-dev/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna19-dev/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Krishna19-dev/Leetcode/tree/master/0268-missing-number) |
