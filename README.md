@@ -41,6 +41,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Krishna19-dev/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Krishna19-dev/Leetcode/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Krishna19-dev/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0875-koko-eating-bananas](https://github.com/Krishna19-dev/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Krishna19-dev/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/Krishna19-dev/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishna19-dev/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -215,6 +216,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Krishna19-dev/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Krishna19-dev/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Krishna19-dev/Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Krishna19-dev/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
